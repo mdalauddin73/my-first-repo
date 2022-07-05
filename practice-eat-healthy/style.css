@@ -26,6 +26,14 @@ section {
     width: 100%;
 }
 
+.overlay {
+    margin-left: -270px;
+}
+
+.topMargin {
+    margin-top: -40px;
+}
+
 .order-food-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
